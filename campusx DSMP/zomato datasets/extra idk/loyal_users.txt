@@ -1,0 +1,1 @@
+"loyal_users" table of "zomato" db was created in "Script Campusx 2 Subqueries" script
